@@ -29,21 +29,37 @@ This repository contains the implementation and experimental results for a **sem
 
 Semantic-Segmentation-of-medicinal-flower/
 ├── baseline_model_training/
+
 │ ├── unet/
+
 │ └── deeplabv3plus/
+
 ├── semi_supervised_models/
+
 │ ├── pseudo_labeling/
+
 │ ├── mean_teacher/
+
 │ └── fixmatch/
+
 ├── dataset/
+
 │ ├── images/
+
 │ └── masks/
+
 ├── results/
+
 │ ├── metrics/
+
 │ └── plots/
+
 ├── appendix_visuals/
+
 │ └── qualitative_results/
+
 ├── requirements.txt
+
 └── README.md
 
 
